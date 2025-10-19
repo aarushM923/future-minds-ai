@@ -18,7 +18,7 @@ export default function Hero() {
         </div>
         <div className="relative">
           src={`${import.meta.env.BASE_URL}images/fmai_02.jpg`}
-          <img src="/images/fmai_02.jpg" alt="Future Minds AI workshop" className="rounded-2xl shadow-xl w-full object-cover"/>
+          <img src={`${import.meta.env.BASE_URL}images/fmai_02.jpg`} alt="Future Minds AI workshop" />
         </div>
       </div>
     </section>
