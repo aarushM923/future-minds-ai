@@ -1,6 +1,6 @@
 const IMAGES = [
-  'fmai_01.jpg','fmai_02.jpg','fmai_03.jpg','fmai_04.jpg',
-  'fmai_05.jpg','fmai_06.jpg','fmai_07.jpg','fmai_08.jpg','fmai_09.jpg'
+  'fmai_01.jpg',,'fmai_03.jpg','fmai_04.jpg',
+  'fmai_05.jpg','fmai_06.jpg','fmai_07.jpg','fmai_08.jpg'
 ];
 
 export default function Gallery() {
