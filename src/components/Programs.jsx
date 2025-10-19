@@ -13,7 +13,7 @@ const tiles = [
   },
   {
     title: "Book Drives & Literacy",
-    desc: "Partnering with local nonprofits to expand access to books for kids across New Jersey.",
+    desc: "Hosted book drives in local libraries; donated to Bridge of Books Foundation to expand access to books for kids across New Jersey.",
     cta: "Donate Books",
     href: "#involved"
   },

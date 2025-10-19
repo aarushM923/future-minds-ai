@@ -7,7 +7,6 @@ export default function Contact() {
           <p className="mt-4 text-gray-600">Have questions, want to partner, or ready to volunteer? We’d love to hear from you.</p>
           <ul className="mt-6 space-y-2 text-gray-700">
             <li><strong>Email:</strong> futuremindsai95@gmail.com</li>
-            <li><strong>Instagram / LinkedIn:</strong> Add your handles here</li>
           </ul>
         </div>
         <form className="card grid gap-3">

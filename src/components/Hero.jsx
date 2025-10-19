@@ -3,7 +3,7 @@ export default function Hero() {
     <section id="home" className="relative">
       <div className="container section grid md:grid-cols-2 items-center gap-10">
         <div>
-          <span className="badge">Nonprofit • Youth-led</span>
+          <span className="badge">Not-For-Profit • Youth-led</span>
           <h1 className="mt-3 text-4xl md:text-5xl font-extrabold tracking-tight">
             Empowering Young Minds <span className="text-primary">Through AI & Education</span>
           </h1>
