@@ -9,8 +9,7 @@ export default function About() {
           In 2025, we donated 472 books to underserved children throughout New Jersey to support the development of literacy skills and to encourage a love of reading.
         </p>
           <ul className="mt-6 grid sm:grid-cols-3 gap-3 text-center">
-            <li className="card"><div className="text-3xl font-extrabold text-primary">200+</div><div className="text-xs text-gray-500">Students Served</div></li>
-            <li className="card"><div className="text-3xl font-extrabold text-primary">25+</div><div className="text-xs text-gray-500">Volunteer Tutors</div></li>
+            <li className="card"><div className="text-3xl font-extrabold text-primary">65+</div><div className="text-xs text-gray-500">Students Served</div></li>
             <li className="card"><div className="text-3xl font-extrabold text-primary">472</div><div className="text-xs text-gray-500">Books Donated</div></li>
           </ul>
           <a href="/docs/book-drive-letter.pdf" className="mt-6 inline-block text-primary underline">Read our Bridge of Books thank‑you letter</a>
