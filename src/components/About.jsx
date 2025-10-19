@@ -16,7 +16,7 @@ export default function About() {
           <a href="/docs/book-drive-letter.pdf" className="mt-6 inline-block text-primary underline">Read our Bridge of Books thank‑you letter</a>
         </div>
         <div>
-          <img src="/images/fmai_09.jpg" alt="FMAI team and students" className="rounded-2xl shadow-xl w-full object-cover"/>
+          <img src={`${import.meta.env.BASE_URL}images/fmai_09.jpg`} alt="FMAI team and students" className="rounded-2xl shadow-xl w-full object-cover"/>
         </div>
       </div>
     </section>
