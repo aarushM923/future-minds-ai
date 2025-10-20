@@ -13,7 +13,7 @@ export default function About() {
             <li className="card"><div className="text-3xl font-extrabold text-primary">472</div><div className="text-xs text-gray-500">Books Donated</div></li>
           </ul>
           <a
-          href={`${import.meta.env.BASE_URL}docs/Future Minds AI Book Drive Thank You.pdf`}
+          href={`${import.meta.env.BASE_URL}docs/book-drive-letter.pdf`}
           target="_blank"
           rel="noopener noreferrer"
         >
