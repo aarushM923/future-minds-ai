@@ -7,6 +7,14 @@ export default function News() {
           <article className="card">
             <h3 className="text-xl font-semibold">Bridge of Books: 472 Books Donated</h3>
             <p className="mt-2 text-gray-600">Thanks to our community, we collected and donated 472 high‑quality children’s books to the Bridge of Books Foundation, expanding access across New Jersey.</p>
+             <a
+          href={`${import.meta.env.BASE_URL}docs/book-drive-letter.pdf`}
+          className="mt-6 inline-block text-primary underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Read our Thank You Letter
+        </a>
              <a href="/docs/book-drive-letter.pdf" className="mt-6 inline-block text-primary underline">Read our Thank You Letter</a>
           </article>
           <article className="card">
