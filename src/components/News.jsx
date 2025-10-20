@@ -15,7 +15,6 @@ export default function News() {
         >
           Read our Thank You Letter
         </a>
-             <a href="/docs/book-drive-letter.pdf" className="mt-6 inline-block text-primary underline">Read our Thank You Letter</a>
           </article>
           <article className="card">
             <h3 className="text-xl font-semibold">Cross‑Continental Workshops</h3>
